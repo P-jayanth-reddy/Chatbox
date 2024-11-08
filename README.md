@@ -24,4 +24,4 @@ This project implements a simple AI-powered chatbot that communicates with users
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/chatbot.git
+git clone https://github.com/P-jayanth-reddy/chatbot.git
