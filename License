@@ -1,0 +1,10 @@
+
+### Changes:
+1. Updated the `git clone` URL to your GitHub repository:  
+   `https://github.com/P-jayanth-reddy/chatbot.git`
+
+2. The rest of the content remains the same as the previous `README.md` with the instructions for setting up and running the chatbot.
+
+### Notes:
+- Replace `demo-url` with an actual live demo URL if you decide to host it somewhere, such as GitHub Pages.
+- Don't forget to set up your Google API key in `chatbox.js` as described in the installation section.
